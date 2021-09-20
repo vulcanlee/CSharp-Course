@@ -2,9 +2,9 @@
 
 |專案名稱|說明|備註|
 |-|-|-|
-|cs001|迭代器 Iterator : IEnumerator與IEnumerable 介面實作方法 ||
-|cs002|迭代器 Iterator : IEnumerator<int>與IEnumerable<int> 介面實作方法||
-|cs003|迭代器 Iterator : 使用 yield 定義迭代器||
+|cs001|列舉器 IEnumerator 與 IEnumerable 介面實作方法||
+|cs002|||
+|cs003|反覆運算器 Iterator : 使用 yield 定義反覆運算器||
 |cs004|||
 |cs005|||
 |cs006|||
