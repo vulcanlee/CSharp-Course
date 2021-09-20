@@ -5,7 +5,7 @@
 |cs001|列舉器 IEnumerator 與 IEnumerable 介面實作方法||
 |cs002|使用委派功能的範例 List<T> 型別中 Find 方法||
 |cs003|反覆運算器 Iterator : 使用 yield 定義反覆運算器||
-|cs004|||
+|cs004|匿名與具名委派功能的範例 : List.Sort 排序||
 |cs005|||
 |cs006|||
 |cs007|||
